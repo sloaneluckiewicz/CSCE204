@@ -1,0 +1,5 @@
+little red riding hood
+dont let the pigeon ride the bus
+harry potter
+women who run with wolves
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/sloaneluckiewicz/Desktop/CSCE204/assignments/assignment12/band_list.py
